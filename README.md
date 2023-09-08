@@ -1,3 +1,4 @@
 # Learning-Python
 My python library.
-\n A
+
+-[1. Print.py](https://github.com/Lightext/Learning-Python/blob/main/Documents/1.%20Print.py)
