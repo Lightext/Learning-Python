@@ -13,54 +13,40 @@ My python library.
 
 6. [List and Set](https://github.com/Lightext/Learning-Python/blob/main/Documents/6.%20List%20and%20Set.py)
 
-7.
+7. [Tuple](https://github.com/Lightext/Learning-Python/blob/main/Documents/7.%20Tuple.py)
 
-8.
+8. [Dictionary](https://github.com/Lightext/Learning-Python/blob/main/Documents/8.%20Dictionary.py)
 
-9.
+9. [If Statement](https://github.com/Lightext/Learning-Python/blob/main/Documents/9.%20If%20Statement.py)
 
-10.
+10. [For Loop](https://github.com/Lightext/Learning-Python/blob/main/Documents/10.%20For%20Loop.py)
 
-11.
+11. [Functions](https://github.com/Lightext/Learning-Python/blob/main/Documents/11.%20Functions.py)
 
-12.
+12. [Pow](https://github.com/Lightext/Learning-Python/blob/main/Documents/12.%20Pow.py)
 
-13.
+13. [Sep](https://github.com/Lightext/Learning-Python/blob/main/Documents/13.%20Sep.py)
 
-14.
+14. [End](https://github.com/Lightext/Learning-Python/blob/main/Documents/14.%20End.py)
 
-15.
+15. [File](https://github.com/Lightext/Learning-Python/blob/main/Documents/15.%20File.py)
 
-16.
+16. [Flush](https://github.com/Lightext/Learning-Python/blob/main/Documents/16.%20Flush.py)
 
-17.
+17. [Input](https://github.com/Lightext/Learning-Python/blob/main/Documents/17.%20Input.py)
 
-18.
+18. [Type Conversions](https://github.com/Lightext/Learning-Python/blob/main/Documents/18.%20Type%20Conversions.py)
 
-19.
+19. [While Loop](https://github.com/Lightext/Learning-Python/blob/main/Documents/19.%20While%20Loop.py)
 
-20.
+20. [Range](https://github.com/Lightext/Learning-Python/blob/main/Documents/20.%20Range.py)
 
-21.
+21. [Enumerate](https://github.com/Lightext/Learning-Python/blob/main/Documents/21.%20Enumerate.py)
 
-22.
+22. [Zip](https://github.com/Lightext/Learning-Python/blob/main/Documents/22.%20Zip.py)
 
-23.
+23. [Break](https://github.com/Lightext/Learning-Python/blob/main/Documents/23.%20Break.py)
 
-24.
+24. [Continue](https://github.com/Lightext/Learning-Python/blob/main/Documents/24.%20Continue.py)
 
-25.
-
-26.
-
-27.
-
-28.
-
-
-
-
-
-
-
-
+25. [Pass](https://github.com/Lightext/Learning-Python/blob/main/Documents/25%20.%20Pass.py)
