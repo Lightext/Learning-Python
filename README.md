@@ -25,7 +25,7 @@ My python library.
 
 12. [Pow](https://github.com/Lightext/Learning-Python/blob/main/Documents/12.%20Pow.py)
 
-13. [Sep](https://github.com/Lightext/Learning-Python/blob/main/Documents/13.%20Sep.py)
+13. [Seperate](https://github.com/Lightext/Learning-Python/blob/main/Documents/13.%20Seperate.py)
 
 14. [End](https://github.com/Lightext/Learning-Python/blob/main/Documents/14.%20End.py)
 
